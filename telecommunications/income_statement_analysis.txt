@@ -1,0 +1,53 @@
+As a Credit Analyst with expertise in the telecommunications industry, perform a detailed analysis of the company's income statement, focusing on the following industry-specific aspects:
+
+1. **Revenue Streams:**
+   - **Service Revenue:**
+     - Analyze revenue from voice services, data services, broadband internet, and other communication services.
+     - Evaluate trends in Average Revenue Per User (ARPU), considering the impact of competition, pricing strategies, and customer churn.
+     - Assess the mix between prepaid and postpaid customers, and its effect on revenue stability.
+   - **Equipment Sales:**
+     - Examine revenue from the sale of devices and equipment, such as mobile phones and routers.
+     - Consider the profitability of equipment sales and potential subsidies offered to customers.
+   - **Wholesale and Interconnection Revenue:**
+     - Analyze revenue from providing network access to other operators, ISPs, and corporate clients.
+     - Evaluate the impact of regulatory changes and competition on these revenue streams.
+
+2. **Operating Expenses:**
+   - **Cost of Services and Network Operations:**
+     - Assess costs related to network maintenance, interconnection fees, spectrum license fees, and technology upgrades.
+     - Evaluate the company's efficiency in managing network operating costs.
+   - **Selling, General, and Administrative (SG&A) Expenses:**
+     - Analyze expenses related to marketing, advertising, customer acquisition, and administrative functions.
+     - Consider the impact of customer churn rates on marketing expenses and strategies to retain customers.
+   - **Depreciation and Amortization:**
+     - Review the impact of depreciation and amortization expenses on operating income, given the capital-intensive nature of the industry.
+
+3. **Profitability Metrics:**
+   - **Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA):**
+     - Calculate EBITDA to assess operational profitability before non-cash expenses.
+     - Analyze EBITDA margins and compare them with industry averages.
+   - **Operating Income and Margins:**
+     - Evaluate operating income and operating margins, considering the impact of high fixed costs and economies of scale.
+   - **Net Income and Earnings Per Share (EPS):**
+     - Assess net income trends, factoring in interest expenses, taxes, and non-operating items.
+
+4. **Interest Expense and Leverage Impact:**
+   - **Interest Coverage Ratio:**
+     - Calculate the ratio of EBITDA or EBIT to interest expense to evaluate the company's ability to service debt.
+     - Consider the impact of high debt levels on profitability and financial risk.
+
+5. **Customer Churn and Acquisition Costs:**
+   - **Churn Rate Analysis:**
+     - Examine customer churn rates and their effect on revenue stability and profitability.
+     - Assess strategies implemented to reduce churn and improve customer loyalty.
+   - **Customer Acquisition Costs (CAC):**
+     - Analyze expenses related to acquiring new customers, including device subsidies and promotional offers.
+
+6. **Non-Recurring Items:**
+   - **One-Time Charges or Gains:**
+     - Identify significant non-recurring items such as restructuring costs, asset disposals, or litigation settlements.
+     - Adjust earnings metrics to reflect core operational performance.
+
+**Objective:**
+Provide insights into the company's operational performance, revenue quality, cost management, and profitability. Highlight any risks or strengths that could affect the company's ability to generate consistent earnings and maintain creditworthiness, considering factors such as competitive pressures, technological changes, capital intensity, customer churn, and regulatory impacts.
+
