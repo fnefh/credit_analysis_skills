@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a media and entertainment company's income
   statement, focusing on revenue streams, cost structure, profitability, content
   performance, technological trends, international operations, and non-recurring items.

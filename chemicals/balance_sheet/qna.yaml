@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a chemical company's balance sheet,
   focusing on asset quality, capital investments, debt structure, liquidity, and
   industry-specific risks.

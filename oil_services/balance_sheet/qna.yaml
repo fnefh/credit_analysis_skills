@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze an oil services company's balance sheet,
   focusing on asset quality, debt structure, liquidity, and risk management specific
   to the oil services industry.

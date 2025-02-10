@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a semiconductor company's balance sheet,
   focusing on asset quality, debt management, equity, liquidity, and operational risks
   specific to the semiconductor industry.

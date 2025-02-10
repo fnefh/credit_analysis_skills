@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: "Teach the model to perform a comprehensive balance sheet analysis for
   agriculture companies, focusing on asset composition, liabilities, equity, liquidity,
   off-balance sheet items, and risk management.

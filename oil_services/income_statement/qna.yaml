@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze an oil services company's income statement,
   focusing on revenue streams, cost structure, profitability, contract structure, and
   risk factors.

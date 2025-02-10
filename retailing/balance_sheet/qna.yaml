@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a retail company's balance sheet,
   focusing on inventory management, PP&E, intangible assets, liabilities, equity,
   liquidity, and off-balance sheet items.

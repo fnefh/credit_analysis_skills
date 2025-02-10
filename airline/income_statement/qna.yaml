@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: "Teach the model to analyze an airline company's income statement with a focus
   on revenue streams, operating expenses, profitability metrics, efficiency ratios,
   earnings volatility, and non-operating items.

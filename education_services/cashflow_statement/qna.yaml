@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze an education services company's cash flow
   statement, focusing on operating activities, investing flows, financing, free cash
   flow, liquidity, sensitivity analysis, and risk management in the education sector.

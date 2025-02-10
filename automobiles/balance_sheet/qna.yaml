@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to perform a detailed balance sheet analysis for an
   automobile company, focusing on capital assets, inventory, intangibles, liabilities,
   liquidity, solvency, and off-balance sheet obligations.

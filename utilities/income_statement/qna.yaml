@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to conduct a detailed income statement analysis for
   utilities companies, focusing on revenue streams, operating expenses,
   profitability metrics, interest expense, regulatory impacts, and environmental

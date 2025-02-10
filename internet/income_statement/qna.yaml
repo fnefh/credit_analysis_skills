@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze an internet portal company's income statement,
   focusing on revenue streams, cost structure, profitability, user metrics, and non-recurring
   items in the context of digital advertising and user monetization.

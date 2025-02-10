@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a mining and metals company's income statement,
   focusing on revenue streams, cost structure, profitability metrics, commodity trends,
   operational efficiency, and non-recurring items.

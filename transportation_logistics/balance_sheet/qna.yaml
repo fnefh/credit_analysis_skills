@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a transportation and logistics company's
   balance sheet, focusing on asset composition, liabilities, equity, liquidity, off-
   balance sheet items, and risk management specific to the industry.

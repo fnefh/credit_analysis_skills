@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze an oil services company's cash flow statement,
   focusing on operating, investing, and financing cash flows, liquidity, and risk management
   in a capital-intensive industry.

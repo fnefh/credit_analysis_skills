@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a construction and engineering company's
   balance sheet, focusing on asset composition, liabilities, equity, liquidity, off-balance
   sheet items, risk management, and regulatory compliance.

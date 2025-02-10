@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a Food and Beverage company's balance sheet,
   focusing on asset composition, inventory management, debt structure, liquidity,
   off-balance sheet exposures, and risk factors specific to the industry.

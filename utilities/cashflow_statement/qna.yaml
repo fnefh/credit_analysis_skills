@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model how to analyze a utilities company’s cash flow statement,
   focusing on operating, investing, and financing activities, free cash flow, and liquidity.
 created_by: "fnefh"

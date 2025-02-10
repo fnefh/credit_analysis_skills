@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a manufacturing company's income statement,
   focusing on revenue quality, cost structure, profitability, economic cycles, foreign
   exchange risks, commodity price volatility, and non-recurring items.

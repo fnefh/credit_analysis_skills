@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a manufacturing company's balance sheet,
   focusing on asset quality, inventory management, debt levels, liquidity, and industry-
   specific risks.

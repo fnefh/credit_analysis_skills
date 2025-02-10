@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: "Teach the model to analyze a bank's cash flow statement, focusing on operating,
   investing, and financing cash flows, liquidity, off-balance sheet exposures, and regulatory
   considerations in the banking industry.

@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to conduct a detailed utilities balance sheet analysis for
   credit evaluation, addressing industry-specific asset composition, liability structure,
   liquidity metrics, off-balance sheet commitments, and regulatory impacts.

@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: "Teach the model to analyze an airline company's cash flow statement with a focus
   on operating, investing, and financing activities, free cash flow, liquidity, sensitivity
   analysis, and working capital management.

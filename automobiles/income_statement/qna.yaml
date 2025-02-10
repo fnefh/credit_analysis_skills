@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze an automobile company's income statement with a focus
   on revenue streams, cost structure, operating expenses, profitability, non-operating items,
   tax considerations, and earnings metrics.

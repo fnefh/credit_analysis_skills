@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a bank's income statement with a focus on
   interest income/expense, non-interest income, loan loss provisions, operating expenses,
   profitability metrics, interest rate sensitivity, and non-recurring items.

@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a cryptocurrency company's income statement,
   focusing on revenue streams, operating expenses, profitability, market conditions, and
   risk management in a volatile market.

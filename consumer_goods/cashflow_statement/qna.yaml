@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a consumer goods company's cash flow statement,
   focusing on operating activities, investing flows, financing, free cash flow, liquidity,
   currency/commodity exposures, and sensitivity analysis.

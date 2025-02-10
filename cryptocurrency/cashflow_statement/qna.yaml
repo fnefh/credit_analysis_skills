@@ -1,4 +1,4 @@
-version: 3
+version: 2
 task_description: Teach the model to analyze a cryptocurrency company's cash flow statement,
   focusing on operating activities, investing and financing flows, risk management, and
   liquidity management specific to the crypto sector.
